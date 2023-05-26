@@ -2,7 +2,7 @@
 
 This project is a miniature model of the Client-Server Application framework that we use in our daily life. This project recreates our computer machine as a local server and client. As a Client, It sends requests to generate quotes based on the theme, and the server accepts the request and generates the response respectively.
 
-![/images/ss1.PNG](https://user-images.githubusercontent.com/48435733/241138841-ed808c03-9580-4f40-b00d-2958b045560a.PNG))
+![/images/ss1.PNG](https://user-images.githubusercontent.com/48435733/241138841-ed808c03-9580-4f40-b00d-2958b045560a.PNG)
 
 - - -
 
@@ -41,11 +41,11 @@ python client.py --name ali
 
 6. Once, you enter the command, you get list of numeric choice to chose to request quotes from the server that we have set up earlier.
 
-![ss2.png](/images/ss2.PNG)
+![ss2.png](https://user-images.githubusercontent.com/48435733/241139367-38503042-dc76-4efc-83ef-fc5e591476f5.PNG)
 
 7. You can stop the server by sending request as "stop".
 
-![ss3.PNG](/images/ss3.PNG)  
+![image](https://github.com/psmohammedali/quotes_server/assets/48435733/2cd7477f-dd72-4c07-85c1-21649b797956)
 
 ---
 
