@@ -2,7 +2,7 @@
 
 This project is a miniature model of the Client-Server Application framework that we use in our daily life. This project recreates our computer machine as a local server and client. As a Client, It sends requests to generate quotes based on the theme, and the server accepts the request and generates the response respectively.
 
-![ss1.png](/images/ss1.PNG)
+![/images/ss1.PNG](https://user-images.githubusercontent.com/48435733/241138841-ed808c03-9580-4f40-b00d-2958b045560a.PNG))
 
 - - -
 
