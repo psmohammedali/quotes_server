@@ -3,6 +3,7 @@
 This project is a miniature model of the Client-Server Application framework that we use in our daily life. This project recreates our computer machine as a local server and client. As a Client, It sends requests to generate quotes based on the theme, and the server accepts the request and generates the response respectively.
 
 ![ss1.png](/images/ss1.PNG)
+
 - - -
 
 ## **Project Exceution**
@@ -40,7 +41,7 @@ python client.py --name ali
 
 6. Once, you enter the command, you get list of numeric choice to chose to request quotes from the server that we have set up earlier.
 
-![ss1.png](/images/ss2.PNG)
+![ss2.png](/images/ss2.PNG)
 
 7. You can stop the server by sending request as "stop".
 
